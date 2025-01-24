@@ -1,4 +1,5 @@
 # CSULA PARKING 
+Locally hosted parking software for school
 
 Installation Instructions (I used Pycharm Pro 
 but can work with other IDE's)
